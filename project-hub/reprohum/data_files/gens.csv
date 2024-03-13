@@ -1,0 +1,1201 @@
+sentence,inference,model,label
+"Royal Academy Summer Exhibition review: Elegant show explores Brexit, environmental concerns and more","The writer is implying that the british academy is having a summer exhibition
+",gpt2_large,real
+"Royal Academy Summer Exhibition review: Elegant show explores Brexit, environmental concerns and more","The writer is implying that the royal academy has a show on climate change
+",t5_base,real
+"Royal Academy Summer Exhibition review: Elegant show explores Brexit, environmental concerns and more","The writer is implying that the royal academy cares about climate change
+",t5_large,real
+Childcare Programs,"The writer is implying that schools should not be reopened
+",gpt2_large,real
+Childcare Programs,"The writer is implying that children are being cared for in child care facilities
+",t5_base,real
+Childcare Programs,"The writer is implying that childcare programs need to be shut down
+",t5_large,real
+Mental health effects of COVID-19 revealed in new study,"The writer is implying that covid affects mental health
+",gpt2_large,real
+Mental health effects of COVID-19 revealed in new study,"The writer is implying that the pandemic is affecting mental health
+",t5_base,real
+Mental health effects of COVID-19 revealed in new study,"The writer is implying that mental health is affected by covid-19
+",t5_large,real
+Meet The White House's New Chief Climate Change Skeptic,"The writer is implying that the white house doesn't believe in climate change
+",gpt2_large,real
+Meet The White House's New Chief Climate Change Skeptic,"The writer is implying that the white house has a climate change skeptic
+",t5_base,real
+Meet The White House's New Chief Climate Change Skeptic,"The writer is implying that the white house is a climate change denier
+",t5_large,real
+'It's no longer free to pollute': Canada imposes carbon tax on four provinces,"The writer is implying that the government is taking action to curb pollution
+",gpt2_large,real
+'It's no longer free to pollute': Canada imposes carbon tax on four provinces,"The writer is implying that canada is imposing a carbon tax
+",t5_base,real
+'It's no longer free to pollute': Canada imposes carbon tax on four provinces,"The writer is implying that canada imposes carbon tax on four provinces
+",t5_large,real
+Durian rush creates thorny environmental problems in Malaysia,"The writer is implying that a country is creating problems for the environment
+",gpt2_large,real
+Durian rush creates thorny environmental problems in Malaysia,"The writer is implying that durian rush creates environmental problems in malaysia
+",t5_base,real
+Durian rush creates thorny environmental problems in Malaysia,"The writer is implying that durian rush is bad for the environment in malaysia
+",t5_large,real
+Lord Michael Heseltine: 'Chilling' similarities between 1930s and current political climate,"The writer is implying that climate change is similar to the 1930s
+",gpt2_large,real
+Lord Michael Heseltine: 'Chilling' similarities between 1930s and current political climate,"The writer is implying that heseltine thinks the political climate is similar
+",t5_base,real
+Lord Michael Heseltine: 'Chilling' similarities between 1930s and current political climate,"The writer is implying that the political climate is similar to 1930s
+",t5_large,real
+Earthrise: Youtubers Jack and Finn Harries join filmmaker Alice Aedy to launch new digital platform for younger generation of climate activists,"The writer is implying that younger generation cares about climate change
+",gpt2_large,real
+Earthrise: Youtubers Jack and Finn Harries join filmmaker Alice Aedy to launch new digital platform for younger generation of climate activists,"The writer is implying that jack and fin harries join together to create platform for younger climate activists
+",t5_base,real
+Earthrise: Youtubers Jack and Finn Harries join filmmaker Alice Aedy to launch new digital platform for younger generation of climate activists,"The writer is implying that the younger generation is more concerned about climate change
+",t5_large,real
+This Lab Aims to Prepare the U.S. Electricity Grid for a Climate Transformation,"The writer is implying that electric grid is being prepared for climate change
+",gpt2_large,real
+This Lab Aims to Prepare the U.S. Electricity Grid for a Climate Transformation,"The writer is implying that a lab wants to prepare the electric grid for a climate change transformation
+",t5_base,real
+This Lab Aims to Prepare the U.S. Electricity Grid for a Climate Transformation,"The writer is implying that the grid will be prepared for a climate change
+",t5_large,real
+Mining Giant Glencore Turns From Coal to Climate-Friendly Assets,"The writer is implying that a mining company is turning away from coal
+",gpt2_large,real
+Mining Giant Glencore Turns From Coal to Climate-Friendly Assets,"The writer is implying that glencore cares about climate change
+",t5_base,real
+Mining Giant Glencore Turns From Coal to Climate-Friendly Assets,"The writer is implying that mining giant glencore cares about climate change
+",t5_large,real
+"COVID-19, Masks, and the ACA: 7 Takeaways from the Presidential Debate","The writer is implying that masks are important
+",gpt2_large,real
+"COVID-19, Masks, and the ACA: 7 Takeaways from the Presidential Debate","The writer is implying that covid-19, masks, and the aca are important
+",t5_base,real
+"COVID-19, Masks, and the ACA: 7 Takeaways from the Presidential Debate","The writer is implying that masks can help prevent covid
+",t5_large,real
+Siberian scientists plan to resume air studies of Arctic climate,"The writer is implying that scientists are going back to work
+",gpt2_large,real
+Siberian scientists plan to resume air studies of Arctic climate,"The writer is implying that siberian scientists are interested in climate change
+",t5_base,real
+Siberian scientists plan to resume air studies of Arctic climate,"The writer is implying that siberian scientists plan to resume air studies of arctic climate
+",t5_large,real
+Forest size of Yorkshire must be planted for UK to meet its climate targets scientists warn,"The writer is implying that the government needs to plant more trees
+",gpt2_large,real
+Forest size of Yorkshire must be planted for UK to meet its climate targets scientists warn,"The writer is implying that uk needs to plant more trees to meet climate targets
+",t5_base,real
+Forest size of Yorkshire must be planted for UK to meet its climate targets scientists warn,"The writer is implying that the uk needs to plant more trees to fight climate change
+",t5_large,real
+"Novel COVID-19 survey takes nation's social, mental ""Pulse""","The writer is implying that covid statistics are being taken seriously
+",gpt2_large,real
+"Novel COVID-19 survey takes nation's social, mental ""Pulse""","The writer is implying that the pandemic is affecting society negatively
+",t5_base,real
+"Novel COVID-19 survey takes nation's social, mental ""Pulse""","The writer is implying that society's mental health is being affected by covid
+",t5_large,real
+New Zealand asks visitors to pledge to protect environment amid concerns over impact of tourism,"The writer is implying that new zealand is concerned about climate change
+",gpt2_large,real
+New Zealand asks visitors to pledge to protect environment amid concerns over impact of tourism,"The writer is implying that new zealand wants people to take action on climate change
+",t5_base,real
+New Zealand asks visitors to pledge to protect environment amid concerns over impact of tourism,"The writer is implying that new zealand cares about the environment
+",t5_large,real
+Climate Disruption Is Now Locked In. The Next Moves Will Be Crucial.,"The writer is implying that climate change is happening
+",gpt2_large,real
+Climate Disruption Is Now Locked In. The Next Moves Will Be Crucial.,"The writer is implying that climate change is a serious issue
+",t5_base,real
+Climate Disruption Is Now Locked In. The Next Moves Will Be Crucial.,"The writer is implying that climate change is a priority
+",t5_large,real
+General election 2019: Greens call for 100bn a year for climate action,"The writer is implying that the green party wants to spend money on climate change
+",gpt2_large,real
+General election 2019: Greens call for 100bn a year for climate action,"The writer is implying that greens want to spend more on climate change
+",t5_base,real
+General election 2019: Greens call for 100bn a year for climate action,"The writer is implying that the greens care about climate change
+",t5_large,real
+COVIDTracer 1.0,"The writer is implying that there is a covid-19 tracer
+",gpt2_large,real
+COVIDTracer 1.0,"The writer is implying that there is a new tool to help with covid
+",t5_base,real
+COVIDTracer 1.0,"The writer is implying that a new version of covid is available
+",t5_large,real
+Commentary We Should Prepare for Climate Change Like We Prepare for War,"The writer is implying that we should prepare for climate change like we prepare for war
+",gpt2_large,real
+Commentary We Should Prepare for Climate Change Like We Prepare for War,"The writer is implying that we should prepare for climate change like we do for war
+",t5_base,real
+Commentary We Should Prepare for Climate Change Like We Prepare for War,"The writer is implying that climate change is real
+",t5_large,real
+"Elizabeth Warren's Climate Justice Plan Aims To Keep Water Public, Study Pollution More","The writer is implying that elizabeth warren wants to keep water public
+",gpt2_large,real
+"Elizabeth Warren's Climate Justice Plan Aims To Keep Water Public, Study Pollution More","The writer is implying that elizabeth warren wants to keep water public and study pollution more
+",t5_base,real
+"Elizabeth Warren's Climate Justice Plan Aims To Keep Water Public, Study Pollution More","The writer is implying that warren's climate justice plan will keep water public
+",t5_large,real
+Oklahoma Gov. Sitt Tests Positive for COVID-19,"The writer is implying that a government official got covid
+",gpt2_large,real
+Oklahoma Gov. Sitt Tests Positive for COVID-19,"The writer is implying that oklahoma governor sitt tested positive
+",t5_base,real
+Oklahoma Gov. Sitt Tests Positive for COVID-19,"The writer is implying that the governor of ok was infected with covid
+",t5_large,real
+Most Americans accept that climate change is real and worrying,"The writer is implying that society cares about climate change
+",gpt2_large,real
+Most Americans accept that climate change is real and worrying,"The writer is implying that most americans believe climate change is real
+",t5_base,real
+Most Americans accept that climate change is real and worrying,"The writer is implying that most americans accept that climate change is real
+",t5_large,real
+Cancer Screening Delays May Cause Spike in Deaths,"The writer is implying that covid-19 screening is harmful
+",gpt2_large,real
+Cancer Screening Delays May Cause Spike in Deaths,"The writer is implying that the pandemic is getting worse
+",t5_base,real
+Cancer Screening Delays May Cause Spike in Deaths,"The writer is implying that cancer screenings are being delayed due to covid
+",t5_large,real
+UN Secretary-General warns of 'critical juncture' in fight against climate change at COP25,"The writer is implying that the un is worried about climate change
+",gpt2_large,real
+UN Secretary-General warns of 'critical juncture' in fight against climate change at COP25,"The writer is implying that un secretary-general warns of a critical moment in fight against climate change
+",t5_base,real
+UN Secretary-General warns of 'critical juncture' in fight against climate change at COP25,"The writer is implying that the un is concerned about climate change
+",t5_large,real
+NYC COVID-19 Deaths During Peak Rivaled 1918 Flu Fatalities,"The writer is implying that covid is more deadly than flu
+",gpt2_large,real
+NYC COVID-19 Deaths During Peak Rivaled 1918 Flu Fatalities,"The writer is implying that covid death rates are higher than in 1918
+",t5_base,real
+NYC COVID-19 Deaths During Peak Rivaled 1918 Flu Fatalities,"The writer is implying that the pandemic is dangerous
+",t5_large,real
+"Flu Taking a Toll, Pediatric Deaths Hit 17-Year High","The writer is implying that the flu is dangerous
+",gpt2_large,real
+"Flu Taking a Toll, Pediatric Deaths Hit 17-Year High","The writer is implying that the flu is dangerous for children
+",t5_base,real
+"Flu Taking a Toll, Pediatric Deaths Hit 17-Year High","The writer is implying that the flu is killing children
+",t5_large,real
+Alaska's new climate threat: tsunamis linked to melting permafrost,"The writer is implying that climate change is real
+",gpt2_large,real
+Alaska's new climate threat: tsunamis linked to melting permafrost,"The writer is implying that the permafrost is melting due to climate change
+",t5_base,real
+Alaska's new climate threat: tsunamis linked to melting permafrost,"The writer is implying that melting permafrost is causing tsunamis
+",t5_large,real
+Can the catastrophic fires bring some sanity to Australian climate politics?,"The writer is implying that wildfires in australia are a result of climate change
+",gpt2_large,real
+Can the catastrophic fires bring some sanity to Australian climate politics?,"The writer is implying that wildfires are affecting australian politics
+",t5_base,real
+Can the catastrophic fires bring some sanity to Australian climate politics?,"The writer is implying that wildfires are caused by climate change in australia
+",t5_large,real
+"Meddling Monarchs, Terrorism and Climate ChangeBankers Would Like Investors to Ignore These Concerns Looming Over Saudi Aramco IPO","The writer is implying that climate change is a hoax
+",gpt2_large,real
+"Meddling Monarchs, Terrorism and Climate ChangeBankers Would Like Investors to Ignore These Concerns Looming Over Saudi Aramco IPO","The writer is implying that investors are worried about climate change and monarchs
+",t5_base,real
+"Meddling Monarchs, Terrorism and Climate ChangeBankers Would Like Investors to Ignore These Concerns Looming Over Saudi Aramco IPO","The writer is implying that the iraqian government doesn't care about climate change
+",t5_large,real
+GOP Climate Change Denial Set The Stage For Trump's Coronavirus Conspiracies,"The writer is implying that trump is a climate change denier
+",gpt2_large,real
+GOP Climate Change Denial Set The Stage For Trump's Coronavirus Conspiracies,"The writer is implying that republicans don't believe in climate change
+",t5_base,real
+GOP Climate Change Denial Set The Stage For Trump's Coronavirus Conspiracies,"The writer is implying that trump is lying about climate change
+",t5_large,real
+Mounting Climate Impacts Threaten U.S. Nuclear Reactors,"The writer is implying that nuclear energy is bad for the environment
+",gpt2_large,real
+Mounting Climate Impacts Threaten U.S. Nuclear Reactors,"The writer is implying that nuclear reactors are being damaged by climate change
+",t5_base,real
+Mounting Climate Impacts Threaten U.S. Nuclear Reactors,"The writer is implying that nuclear power is being affected by climate change
+",t5_large,real
+Herd Immunity Threshold Could Be As Low As 43%,"The writer is implying that herd immunity might be low
+",gpt2_large,real
+Herd Immunity Threshold Could Be As Low As 43%,"The writer is implying that herd immunity might be as low as 43%
+",t5_base,real
+Herd Immunity Threshold Could Be As Low As 43%,"The writer is implying that herd immunity threshold could be low
+",t5_large,real
+"Over 31,000 scientists signed the OISM Petition Project.","The writer is implying that scientists believe in climate change
+",gpt2_large,real
+"Over 31,000 scientists signed the OISM Petition Project.","The writer is implying that scientists signed the oism petition
+",t5_base,real
+"Over 31,000 scientists signed the OISM Petition Project.","The writer is implying that scientists are concerned about covid
+",t5_large,real
+Early CDC COVID-19 Test Kits 'Likely Contaminated',"The writer is implying that covid 19 tests are unsafe
+",gpt2_large,real
+Early CDC COVID-19 Test Kits 'Likely Contaminated',"The writer is implying that early cdc covid-19 test kits were likely contagious
+",t5_base,real
+Early CDC COVID-19 Test Kits 'Likely Contaminated',"The writer is implying that early cdc covid-19 test kits are likely to contain covid
+",t5_large,real
+"Top Environmental Group Faces Upheaval Over Board's Ties To Jeffrey Epstein, Trump","The writer is implying that the epa is corrupt
+",gpt2_large,real
+"Top Environmental Group Faces Upheaval Over Board's Ties To Jeffrey Epstein, Trump","The writer is implying that trump and jeff epstein have different views on climate change
+",t5_base,real
+"Top Environmental Group Faces Upheaval Over Board's Ties To Jeffrey Epstein, Trump","The writer is implying that trump is bad for the environment
+",t5_large,real
+"When Loved One Is in ICU, Spouse Sees Health Risks","The writer is implying that covid-19 can be transmitted through loved ones
+",gpt2_large,real
+"When Loved One Is in ICU, Spouse Sees Health Risks","The writer is implying that icu is dangerous for spouses
+",t5_base,real
+"When Loved One Is in ICU, Spouse Sees Health Risks","The writer is implying that a loved one is in the icu
+",t5_large,real
+60% of Americans Have an Underlying Condition That Increases COVID-19 Risk,"The writer is implying that many people have underlying conditions that increase covid risk
+",gpt2_large,real
+60% of Americans Have an Underlying Condition That Increases COVID-19 Risk,"The writer is implying that some people are more susceptible to covid than others
+",t5_base,real
+60% of Americans Have an Underlying Condition That Increases COVID-19 Risk,"The writer is implying that most americans have underlying conditions that make them more susceptible to covid
+",t5_large,real
+Scientists to study how Arctic's oil-polluted soil reacts to climate change,"The writer is implying that scientists are studying how the arctic's oil pollution is reacting to climate change
+",gpt2_large,real
+Scientists to study how Arctic's oil-polluted soil reacts to climate change,"The writer is implying that the arctic's oil-polluted soil reacts to climate change
+",t5_base,real
+Scientists to study how Arctic's oil-polluted soil reacts to climate change,"The writer is implying that soil in the arctic is being affected by climate change
+",t5_large,real
+"Power Up: On 50th anniversary of Earth Day, EPA head says climate change 'not the only environmental issue that we face as a planet'","The writer is implying that the epa head says climate change is an important issue
+",gpt2_large,real
+"Power Up: On 50th anniversary of Earth Day, EPA head says climate change 'not the only environmental issue that we face as a planet'","The writer is implying that epa head says climate change is not the only issue we face as a planet
+",t5_base,real
+"Power Up: On 50th anniversary of Earth Day, EPA head says climate change 'not the only environmental issue that we face as a planet'","The writer is implying that climate change isn't the only environmental issue we face
+",t5_large,real
+"Colorado regulators OK rules aimed at cutting pollution, greenhouse gases from well sites","The writer is implying that the state government cares about the environment
+",gpt2_large,real
+"Colorado regulators OK rules aimed at cutting pollution, greenhouse gases from well sites","The writer is implying that the government is taking action on climate change
+",t5_base,real
+"Colorado regulators OK rules aimed at cutting pollution, greenhouse gases from well sites","The writer is implying that the government is taking steps to reduce pollution
+",t5_large,real
+Climate change: Emissions edge up despite drop in coal,"The writer is implying that emissions are increasing despite a drop in coal
+",gpt2_large,real
+Climate change: Emissions edge up despite drop in coal,"The writer is implying that co2 emissions are rising
+",t5_base,real
+Climate change: Emissions edge up despite drop in coal,"The writer is implying that emissions are going up despite drop in coal
+",t5_large,real
+"Small increases in average temperature translate to big increases in the number of extremely hot days, and those hot days have a big impact.","The writer is implying that temperatures are increasing due to climate change
+",gpt2_large,real
+"Small increases in average temperature translate to big increases in the number of extremely hot days, and those hot days have a big impact.","The writer is implying that people can be affected by global warming
+",t5_base,real
+"Small increases in average temperature translate to big increases in the number of extremely hot days, and those hot days have a big impact.","The writer is implying that hotter days are a sign of climate change
+",t5_large,real
+"In 11th House District race, Foster and Laib differ greatly on climate change","The writer is implying that foster and laib do not agree on climate change
+",gpt2_large,real
+"In 11th House District race, Foster and Laib differ greatly on climate change","The writer is implying that laib and foster differ on climate change
+",t5_base,real
+"In 11th House District race, Foster and Laib differ greatly on climate change","The writer is implying that laib and foster don't agree on climate change
+",t5_large,real
+Meet the Millennial Farmers We'll Be Counting on to Endure Climate Change,"The writer is implying that farmers will be affected by climate change
+",gpt2_large,real
+Meet the Millennial Farmers We'll Be Counting on to Endure Climate Change,"The writer is implying that millennial farmers will be able to end climate change
+",t5_base,real
+Meet the Millennial Farmers We'll Be Counting on to Endure Climate Change,"The writer is implying that millennial farmers will fight climate change
+",t5_large,real
+German farmers set bonfires across the country in protest at being 'ignored' in climate drive,"The writer is implying that the government doesn't care about the environment
+",gpt2_large,real
+German farmers set bonfires across the country in protest at being 'ignored' in climate drive,"The writer is implying that german farmers care about climate change
+",t5_base,real
+German farmers set bonfires across the country in protest at being 'ignored' in climate drive,"The writer is implying that farmers are protesting climate change in germany
+",t5_large,real
+First Protocol on How to Use Lung Ultrasound to Triage COVID-19,"The writer is implying that there is a new way to treat covid
+",gpt2_large,real
+First Protocol on How to Use Lung Ultrasound to Triage COVID-19,"The writer is implying that lung ultrasound can treat covid
+",t5_base,real
+First Protocol on How to Use Lung Ultrasound to Triage COVID-19,"The writer is implying that there are new remedies to treat covid
+",t5_large,real
+Sri Lanka assessing environment damage from oil tanker fire,"The writer is implying that the government is taking climate change seriously
+",gpt2_large,real
+Sri Lanka assessing environment damage from oil tanker fire,"The writer is implying that sri lanka is worried about the environment
+",t5_base,real
+Sri Lanka assessing environment damage from oil tanker fire,"The writer is implying that oil tanker fires in sri lanka
+",t5_large,real
+Coronaviruses and heart health,"The writer is implying that coronavirus can be transmitted through heart health
+",gpt2_large,real
+Coronaviruses and heart health,"The writer is implying that coronavirus affects heart health
+",t5_base,real
+Coronaviruses and heart health,"The writer is implying that covid-19 can affect heart health
+",t5_large,real
+Extinction Rebellion protests - live: Climate activists shut down parts of central London as police arrest more than 140 demonstrators,"The writer is implying that climate activists are disruptive
+",gpt2_large,real
+Extinction Rebellion protests - live: Climate activists shut down parts of central London as police arrest more than 140 demonstrators,"The writer is implying that climate activists are protesting in london
+",t5_base,real
+Extinction Rebellion protests - live: Climate activists shut down parts of central London as police arrest more than 140 demonstrators,"The writer is implying that extinction rebellion protests shut down central london
+",t5_large,real
+What If Flu and COVID-19 Overlap? Australia Is Trying to Avoid That Scenario,"The writer is implying that the government is trying to avoid a situation like australia
+",gpt2_large,real
+What If Flu and COVID-19 Overlap? Australia Is Trying to Avoid That Scenario,"The writer is implying that australia is trying to prevent covid and flu
+",t5_base,real
+What If Flu and COVID-19 Overlap? Australia Is Trying to Avoid That Scenario,"The writer is implying that australia is trying to avoid covid and flu
+",t5_large,real
+New Coronavirus Stable for Hours on Surfaces,"The writer is implying that covid-19 can be spread through surfaces
+",gpt2_large,real
+New Coronavirus Stable for Hours on Surfaces,"The writer is implying that coronavirus can be spread easily on surfaces
+",t5_base,real
+New Coronavirus Stable for Hours on Surfaces,"The writer is implying that covid can be spread on surfaces
+",t5_large,real
+"As Climate Talks Begin, U.N. Chief Warns Against 'Fiddling' While The Planet Burns","The writer is implying that the un chief is worried about climate change
+",gpt2_large,real
+"As Climate Talks Begin, U.N. Chief Warns Against 'Fiddling' While The Planet Burns","The writer is implying that the un chief is worried about fiddling while the planet is burning
+",t5_base,real
+"As Climate Talks Begin, U.N. Chief Warns Against 'Fiddling' While The Planet Burns","The writer is implying that climate change is causing natural disasters
+",t5_large,real
+'Are a cow's farts the worst for the planet?' Children's climate questions answered,"The writer is implying that children care about climate change
+",gpt2_large,real
+'Are a cow's farts the worst for the planet?' Children's climate questions answered,"The writer is implying that cow farts are bad for the environment
+",t5_base,real
+'Are a cow's farts the worst for the planet?' Children's climate questions answered,"The writer is implying that children have questions about climate change
+",t5_large,real
+"You Are the Heroes,' Comedians Tell Clinicians, Part 2","The writer is implying that the comedians are proud of healthcare workers
+",gpt2_large,real
+"You Are the Heroes,' Comedians Tell Clinicians, Part 2","The writer is implying that doctors are heroes
+",t5_base,real
+"You Are the Heroes,' Comedians Tell Clinicians, Part 2","The writer is implying that the comedians appreciate the healthcare workers
+",t5_large,real
+"Treating COVID-19: Bipolar drug shows promise, other","The writer is implying that bipolar drugs might be able to treat covid
+",gpt2_large,real
+"Treating COVID-19: Bipolar drug shows promise, other","The writer is implying that there is a new treatment for covid
+",t5_base,real
+"Treating COVID-19: Bipolar drug shows promise, other","The writer is implying that there are new treatments for covid
+",t5_large,real
+Should Docs Stop Providing Routine Care in the Era of COVID-19?,"The writer is implying that doctors should not provide routine care
+",gpt2_large,real
+Should Docs Stop Providing Routine Care in the Era of COVID-19?,"The writer is implying that docs should stop providing routine care during the pandemic
+",t5_base,real
+Should Docs Stop Providing Routine Care in the Era of COVID-19?,"The writer is implying that doctors may not be able to provide routine care due to covid
+",t5_large,real
+Tory MP writes letter to The 1975 complaining they take flights but also support addressing climate change,"The writer is implying that tory mps are hypocritical
+",gpt2_large,real
+Tory MP writes letter to The 1975 complaining they take flights but also support addressing climate change,"The writer is implying that tory mp complains about taking flights
+",t5_base,real
+Tory MP writes letter to The 1975 complaining they take flights but also support addressing climate change,"The writer is implying that the tory mp supports climate change
+",t5_large,real
+COMMENTARY: Iranian Doctors 'Dance' to Defy Coronavirus,"The writer is implying that doctors in iran dance to defy covid restrictions
+",gpt2_large,real
+COMMENTARY: Iranian Doctors 'Dance' to Defy Coronavirus,"The writer is implying that doctors in iran care about covid
+",t5_base,real
+COMMENTARY: Iranian Doctors 'Dance' to Defy Coronavirus,"The writer is implying that iran doctors dance to fight covid
+",t5_large,real
+New York approves ambitious climate change plan to lead the US on environment,"The writer is implying that new york approved a climate change plan
+",gpt2_large,real
+New York approves ambitious climate change plan to lead the US on environment,"The writer is implying that ny approves climate change plan
+",t5_base,real
+New York approves ambitious climate change plan to lead the US on environment,"The writer is implying that new york approves climate change plan
+",t5_large,real
+Trump is skeptical of climate change report because of his aposhigh levels of intelligenceapos,"The writer is implying that the president doesn't believe in science
+",gpt2_large,real
+Trump is skeptical of climate change report because of his aposhigh levels of intelligenceapos,"The writer is implying that trump does not believe in climate change
+",t5_base,real
+Trump is skeptical of climate change report because of his aposhigh levels of intelligenceapos,"The writer is implying that trump doesn't believe in climate change
+",t5_large,real
+Climate change will cost US economy billions of dollars report finds,"The writer is implying that climate change is bad for the economy
+",gpt2_large,real
+Climate change will cost US economy billions of dollars report finds,"The writer is implying that climate change will cost us economy billions of dollars
+",t5_base,real
+Climate change will cost US economy billions of dollars report finds,"The writer is implying that climate change is costing the us economy billions of dollars
+",t5_large,real
+100 American Flight Attendants Have COVID-19,"The writer is implying that the pandemic is serious
+",gpt2_large,real
+100 American Flight Attendants Have COVID-19,"The writer is implying that covid is spreading in america
+",t5_base,real
+100 American Flight Attendants Have COVID-19,"The writer is implying that covid is spreading on flights
+",t5_large,real
+Leaders move past Trump to protect world from climate change,"The writer is implying that the president doesn't care about the environment
+",gpt2_large,real
+Leaders move past Trump to protect world from climate change,"The writer is implying that trump does not care about climate change
+",t5_base,real
+Leaders move past Trump to protect world from climate change,"The writer is implying that trump doesn't care about climate change
+",t5_large,real
+"Warming climate has grown UK economy 10% in past 50 years, but shrunk the poorest by a third, study says","The writer is implying that climate change is not real
+",gpt2_large,real
+"Warming climate has grown UK economy 10% in past 50 years, but shrunk the poorest by a third, study says","The writer is implying that climate change is hurting the poorest
+",t5_base,real
+"Warming climate has grown UK economy 10% in past 50 years, but shrunk the poorest by a third, study says","The writer is implying that the uk economy has grown due to climate change
+",t5_large,real
+"Netflix walruses were driven to death by polar bears not climate change, claims zoologist","The writer is implying that climate change isn't real
+",gpt2_large,real
+"Netflix walruses were driven to death by polar bears not climate change, claims zoologist","The writer is implying that polar bears are not caused by climate change
+",t5_base,real
+"Netflix walruses were driven to death by polar bears not climate change, claims zoologist","The writer is implying that polar bears are driven to death by climate change
+",t5_large,real
+Using My Music To Change My Environment Away From Gangs,"The writer is implying that people are using music to fight climate change
+",gpt2_large,real
+Using My Music To Change My Environment Away From Gangs,"The writer is implying that music is being used to change the environment
+",t5_base,real
+Using My Music To Change My Environment Away From Gangs,"The writer is implying that people are using music to change the environment
+",t5_large,real
+Teenage British Activist Stages Climate Protest on Arctic Ice Floe,"The writer is implying that the younger generation cares about climate change
+",gpt2_large,real
+Teenage British Activist Stages Climate Protest on Arctic Ice Floe,"The writer is implying that a teenager staged a climate protest
+",t5_base,real
+Teenage British Activist Stages Climate Protest on Arctic Ice Floe,"The writer is implying that teens are protesting climate change on ice floes
+",t5_large,real
+How to increase lung capacity: Simple exercises,"The writer is implying that there are simple ways to increase lung capacity
+",gpt2_large,real
+How to increase lung capacity: Simple exercises,"The writer is implying that there are ways to increase lung capacity
+",t5_base,real
+How to increase lung capacity: Simple exercises,"The writer is implying that exercises can increase lung capacity
+",t5_large,real
+"With California ablaze, Newsom blasts Trump administration for failing to fight climate change","The writer is implying that not all government officials are on the same page
+",gpt2_large,real
+"With California ablaze, Newsom blasts Trump administration for failing to fight climate change","The writer is implying that trump does not care about the environment
+",t5_base,real
+"With California ablaze, Newsom blasts Trump administration for failing to fight climate change","The writer is implying that california is burning due to climate change
+",t5_large,real
+Climate SOS: Five-year period ending 2019 to be hottest on record,"The writer is implying that the earth is heating up
+",gpt2_large,real
+Climate SOS: Five-year period ending 2019 to be hottest on record,"The writer is implying that the earth is getting hotter
+",t5_base,real
+Climate SOS: Five-year period ending 2019 to be hottest on record,"The writer is implying that climate change is real
+",t5_large,real
+COVID-19 Is More Severe in Smokers,"The writer is implying that smokers are more susceptible to covid
+",gpt2_large,real
+COVID-19 Is More Severe in Smokers,"The writer is implying that smokers are more vulnerable to covid
+",t5_base,real
+COVID-19 Is More Severe in Smokers,"The writer is implying that smokers are more at risk
+",t5_large,real
+Hospitals Put to Test as COVID-19 Strains ICUs,"The writer is implying that hospitals are testing for covid
+",gpt2_large,real
+Hospitals Put to Test as COVID-19 Strains ICUs,"The writer is implying that hospitals are being tested for covid
+",t5_base,real
+Hospitals Put to Test as COVID-19 Strains ICUs,"The writer is implying that covid is spreading in hospitals
+",t5_large,real
+"""Joe Biden says Trump admin isn't doing enough to protect workers from COVID-19""","The writer is implying that the government is not doing enough to protect workers
+",gpt2_large,real
+"""Joe Biden says Trump admin isn't doing enough to protect workers from COVID-19""","The writer is implying that biden says trump is not doing enough to protect workers
+",t5_base,real
+"""Joe Biden says Trump admin isn't doing enough to protect workers from COVID-19""","The writer is implying that biden says trump is not doing enough to protect workers from covid
+",t5_large,real
+Strategies for Optimizing the Supply of Isolation Gowns,"The writer is implying that isolation gowns can be used to treat covid
+",gpt2_large,real
+Strategies for Optimizing the Supply of Isolation Gowns,"The writer is implying that there is a shortage of isolation gowns
+",t5_base,real
+Strategies for Optimizing the Supply of Isolation Gowns,"The writer is implying that there are strategies to optimize the supply of isolation gowns
+",t5_large,real
+Protect your privacy and the environment while upgrading your gear,"The writer is implying that there are new ways to protect yourself
+",gpt2_large,real
+Protect your privacy and the environment while upgrading your gear,"The writer is implying that people should upgrade their gear
+",t5_base,real
+Protect your privacy and the environment while upgrading your gear,"The writer is implying that upgrading your gear is good for the environment
+",t5_large,real
+MPs and environmental groups accuse Theresa May of aposunforgivable betrayalapos on climate chan,"The writer is implying that the government is not doing enough to fight climate change
+",gpt2_large,real
+MPs and environmental groups accuse Theresa May of aposunforgivable betrayalapos on climate chan,"The writer is implying that mps and environmental groups accuse theresa may of betraying climate change
+",t5_base,real
+MPs and environmental groups accuse Theresa May of aposunforgivable betrayalapos on climate chan,"The writer is implying that the prime minister doesn't care about climate change
+",t5_large,real
+How to deal with the climate emergency? Ask your neighbor.,"The writer is implying that people can help
+",gpt2_large,real
+How to deal with the climate emergency? Ask your neighbor.,"The writer is implying that there are ways to deal with climate change
+",t5_base,real
+How to deal with the climate emergency? Ask your neighbor.,"The writer is implying that climate change is real
+",t5_large,real
+Climate Change Is A Risk To Our Existence - Labour Is Ready To Step Up And Protect The Planet,"The writer is implying that climate change is real
+",gpt2_large,real
+Climate Change Is A Risk To Our Existence - Labour Is Ready To Step Up And Protect The Planet,"The writer is implying that labour cares about the environment
+",t5_base,real
+Climate Change Is A Risk To Our Existence - Labour Is Ready To Step Up And Protect The Planet,"The writer is implying that labour cares about climate change
+",t5_large,real
+"Santa Clara County, California Community Mitigation","The writer is implying that california communities are doing a good job with the pandemic
+",gpt2_large,real
+"Santa Clara County, California Community Mitigation","The writer is implying that california has a community mitigation plan
+",t5_base,real
+"Santa Clara County, California Community Mitigation","The writer is implying that california is dealing with the pandemic
+",t5_large,real
+Forests 'in the front line of Ireland's response to climate change',"The writer is implying that forests are being harmed by climate change
+",gpt2_large,real
+Forests 'in the front line of Ireland's response to climate change',"The writer is implying that ireland cares about climate change
+",t5_base,real
+Forests 'in the front line of Ireland's response to climate change',"The writer is implying that ireland's forests are being affected by climate change
+",t5_large,real
+Kids are striking over climate change because adults are too infantile | Richard Russell,"The writer is implying that kids are striking against climate change
+",gpt2_large,real
+Kids are striking over climate change because adults are too infantile | Richard Russell,"The writer is implying that kids are striking over climate change because adults are too infantile
+",t5_base,real
+Kids are striking over climate change because adults are too infantile | Richard Russell,"The writer is implying that kids are striking over climate change
+",t5_large,real
+Jay Inslee Demands Climate Action Now: 'The World's On Fire',"The writer is implying that climate change is burning
+",gpt2_large,real
+Jay Inslee Demands Climate Action Now: 'The World's On Fire',"The writer is implying that jay inslee wants to fight climate change
+",t5_base,real
+Jay Inslee Demands Climate Action Now: 'The World's On Fire',"The writer is implying that jay inslee says the world is on fire
+",t5_large,real
+Letter: We have time to reverse climate crisis if we act decisively,"The writer is implying that we need to act now
+",gpt2_large,real
+Letter: We have time to reverse climate crisis if we act decisively,"The writer is implying that we need to act on climate change now
+",t5_base,real
+Letter: We have time to reverse climate crisis if we act decisively,"The writer is implying that we have time to reverse climate change
+",t5_large,real
+'Our biggest compliment yet!' Greta Thunberg thanks Opec chief for complaining that climate change campaigners are biggest threat to oil sector,"The writer is implying that greta knows best
+",gpt2_large,real
+'Our biggest compliment yet!' Greta Thunberg thanks Opec chief for complaining that climate change campaigners are biggest threat to oil sector,"The writer is implying that greta thunberg thinks climate change activists are the biggest threat to oil industry
+",t5_base,real
+'Our biggest compliment yet!' Greta Thunberg thanks Opec chief for complaining that climate change campaigners are biggest threat to oil sector,"The writer is implying that greta thunberg is grateful to the oil industry
+",t5_large,real
+CDC shares 9 tons of protective gear with responders,"The writer is implying that the cdc doesn't care about helping people
+",gpt2_large,real
+CDC shares 9 tons of protective gear with responders,"The writer is implying that the cdc is helping responders
+",t5_base,real
+CDC shares 9 tons of protective gear with responders,"The writer is implying that the cdc is sharing protective gear with responders
+",t5_large,real
+Solutions to climate change and obesity can be found in our cities,"The writer is implying that there are solutions to climate change
+",gpt2_large,real
+Solutions to climate change and obesity can be found in our cities,"The writer is implying that there are solutions to climate change and obesity
+",t5_base,real
+Solutions to climate change and obesity can be found in our cities,"The writer is implying that cities can help combat climate change
+",t5_large,real
+How People at Higher Risk from COVID-19 Can Enjoy Summer Safely,"The writer is implying that covid can be transmitted in summer
+",gpt2_large,real
+How People at Higher Risk from COVID-19 Can Enjoy Summer Safely,"The writer is implying that people at higher risk from covid can enjoy summer safely
+",t5_base,real
+How People at Higher Risk from COVID-19 Can Enjoy Summer Safely,"The writer is implying that people at higher risk can enjoy summer safely
+",t5_large,real
+Ventilators: Helping or Harming COVID-19 Patients?,"The writer is implying that ventilators might be harmful
+",gpt2_large,real
+Ventilators: Helping or Harming COVID-19 Patients?,"The writer is implying that ventilators might be beneficial for covid patients
+",t5_base,real
+Ventilators: Helping or Harming COVID-19 Patients?,"The writer is implying that ventilators can be helpful or harmful
+",t5_large,real
+Backlash against UK plan to use all-male team to host Cop26 climate summit,"The writer is implying that the uk government is biased
+",gpt2_large,real
+Backlash against UK plan to use all-male team to host Cop26 climate summit,"The writer is implying that uk wants to use all male team for climate summit
+",t5_base,real
+Backlash against UK plan to use all-male team to host Cop26 climate summit,"The writer is implying that the uk doesn't care about climate change
+",t5_large,real
+Nine simple ways to revamp your workspace for a healthier environment,"The writer is implying that there are simple things you can do to help the environment
+",gpt2_large,real
+Nine simple ways to revamp your workspace for a healthier environment,"The writer is implying that there are ways to improve the environment
+",t5_base,real
+Nine simple ways to revamp your workspace for a healthier environment,"The writer is implying that there are ways to make your work environment healthier
+",t5_large,real
+The Drilldown: Report finds climate change most underreported humanitarian crisis,"The writer is implying that climate change is not as important as we thought
+",gpt2_large,real
+The Drilldown: Report finds climate change most underreported humanitarian crisis,"The writer is implying that climate change is a serious issue
+",t5_base,real
+The Drilldown: Report finds climate change most underreported humanitarian crisis,"The writer is implying that climate change isn't being taken seriously enough
+",t5_large,real
+French cheeses at risk of falling foul of global warming as cows lack fresh grass,"The writer is implying that climate change is affecting food production
+",gpt2_large,real
+French cheeses at risk of falling foul of global warming as cows lack fresh grass,"The writer is implying that french cheeses are at risk of falling foul of global warming
+",t5_base,real
+French cheeses at risk of falling foul of global warming as cows lack fresh grass,"The writer is implying that cows are dying due to climate change
+",t5_large,real
+If You Are Sick or Caring for Someone,"The writer is implying that there are things you can do to help
+",gpt2_large,real
+If You Are Sick or Caring for Someone,"The writer is implying that there are things you can do to protect yourself from covid
+",t5_base,real
+If You Are Sick or Caring for Someone,"The writer is implying that people should take extra precautions if they are sick
+",t5_large,real
+David Wallace-Wells: 'There are many cases of climate hypocrisy',"The writer is implying that climate change is not real
+",gpt2_large,real
+David Wallace-Wells: 'There are many cases of climate hypocrisy',"The writer is implying that climate change is a hoax
+",t5_base,real
+David Wallace-Wells: 'There are many cases of climate hypocrisy',"The writer is implying that david wallace-wells says climate change is not real
+",t5_large,real
+Lagarde: ECB should do more to tackle climate emergency,"The writer is implying that the eu is not doing enough to fight climate change
+",gpt2_large,real
+Lagarde: ECB should do more to tackle climate emergency,"The writer is implying that lagarde thinks ecb should do more to fight climate change
+",t5_base,real
+Lagarde: ECB should do more to tackle climate emergency,"The writer is implying that lagarde thinks the ecb needs to do more for climate change
+",t5_large,real
+"""CDC Grows SARS-CoV-2, the virus that causes COVID-19, in Cell Culture""","The writer is implying that the cdc is corrupt
+",gpt2_large,real
+"""CDC Grows SARS-CoV-2, the virus that causes COVID-19, in Cell Culture""","The writer is implying that the cdc is trying to grow covid
+",t5_base,real
+"""CDC Grows SARS-CoV-2, the virus that causes COVID-19, in Cell Culture""","The writer is implying that the cdc is growing covid in cell culture
+",t5_large,real
+Novel COVID-19 survey takes nation's social,"The writer is implying that covid is spreading in the us
+",gpt2_large,real
+Novel COVID-19 survey takes nation's social,"The writer is implying that society is being impacted by covid
+",t5_base,real
+Novel COVID-19 survey takes nation's social,"The writer is implying that society is being surveyed about covid
+",t5_large,real
+"""Recommendation Regarding the Use of Cloth Face Coverings, Especially in Areas of Significant Community-Based Transmission""","The writer is implying that masks are effective
+",gpt2_large,real
+"""Recommendation Regarding the Use of Cloth Face Coverings, Especially in Areas of Significant Community-Based Transmission""","The writer is implying that people should use cloth face coverings
+",t5_base,real
+"""Recommendation Regarding the Use of Cloth Face Coverings, Especially in Areas of Significant Community-Based Transmission""","The writer is implying that people should wear masks
+",t5_large,real
+"If children don't join the climate strike, their schools are underachieving | David Reed","The writer is implying that schools aren't doing enough to fight climate change
+",gpt2_large,real
+"If children don't join the climate strike, their schools are underachieving | David Reed","The writer is implying that children should join the climate strike
+",t5_base,real
+"If children don't join the climate strike, their schools are underachieving | David Reed","The writer is implying that schools are underperforming due to climate change
+",t5_large,real
+Why You Don't Need to Panic About the New Coronavirus,"The writer is implying that covid-19 isn't as bad as we thought
+",gpt2_large,real
+Why You Don't Need to Panic About the New Coronavirus,"The writer is implying that people shouldn't panic about covid
+",t5_base,real
+Why You Don't Need to Panic About the New Coronavirus,"The writer is implying that covid isn't that bad
+",t5_large,real
+Billie Eilish Sounds Alarm on Climate Change and Trump: 'Vote the Orange Man Out',"The writer is implying that the orange man is a climate change denier
+",gpt2_large,misinfo
+Billie Eilish Sounds Alarm on Climate Change and Trump: 'Vote the Orange Man Out',"The writer is implying that billie eilish is alarming about climate change and trump
+",t5_base,misinfo
+Billie Eilish Sounds Alarm on Climate Change and Trump: 'Vote the Orange Man Out',"The writer is implying that not all government officials are on the same page
+",t5_large,misinfo
+"Bill Gates, climate change alarmist, buys $43 million mansion right off the ocean","The writer is implying that bill gates is an alarmist
+",gpt2_large,misinfo
+"Bill Gates, climate change alarmist, buys $43 million mansion right off the ocean","The writer is implying that bill gates is a climate change denier
+",t5_base,misinfo
+"Bill Gates, climate change alarmist, buys $43 million mansion right off the ocean","The writer is implying that bill gates bought a mansion off the ocean
+",t5_large,misinfo
+Articles shared hundreds of times on Facebook in multiple countries claim that holy communion has been banned in Toronto as part of the Canadian city's response to the coronavirus pandemic.,"The writer is implying that the government is trying to control people
+",gpt2_large,misinfo
+Articles shared hundreds of times on Facebook in multiple countries claim that holy communion has been banned in Toronto as part of the Canadian city's response to the coronavirus pandemic.,"The writer is implying that holy communion is banned in canada due to covid
+",t5_base,misinfo
+Articles shared hundreds of times on Facebook in multiple countries claim that holy communion has been banned in Toronto as part of the Canadian city's response to the coronavirus pandemic.,"The writer is implying that holy communion has been banned in toronto due to covid
+",t5_large,misinfo
+Watch: Alex Epstein interviews Dr. Caleb Rossiter about the campaign to silence climate debate on Facebook,"The writer is implying that social media is censoring a climate change debate
+",gpt2_large,misinfo
+Watch: Alex Epstein interviews Dr. Caleb Rossiter about the campaign to silence climate debate on Facebook,"The writer is implying that the climate change debate is being silenced on facebook
+",t5_base,misinfo
+Watch: Alex Epstein interviews Dr. Caleb Rossiter about the campaign to silence climate debate on Facebook,"The writer is implying that climate change is being silenced on facebook
+",t5_large,misinfo
+"For several days, an article by a Spanish organization in which COVID-19 is an ""exosome influenced by electromagnetic pollution"" has been circulating on social media and WhatsApp.","The writer is implying that covid is transmitted through electromagnetic waves
+",gpt2_large,misinfo
+"For several days, an article by a Spanish organization in which COVID-19 is an ""exosome influenced by electromagnetic pollution"" has been circulating on social media and WhatsApp.","The writer is implying that covid is a hoax
+",t5_base,misinfo
+"For several days, an article by a Spanish organization in which COVID-19 is an ""exosome influenced by electromagnetic pollution"" has been circulating on social media and WhatsApp.","The writer is implying that covid is caused by electromagnetic pollution
+",t5_large,misinfo
+Facebook oversight board urged to tackle climate 'loophole'  Steyer & Podesta form group dedicated to censoring skeptics,"The writer is implying that climate change is a hoax
+",gpt2_large,misinfo
+Facebook oversight board urged to tackle climate 'loophole'  Steyer & Podesta form group dedicated to censoring skeptics,"The writer is implying that facebook is censoring climate change deniers
+",t5_base,misinfo
+Facebook oversight board urged to tackle climate 'loophole'  Steyer & Podesta form group dedicated to censoring skeptics,"The writer is implying that steyer & podesta form a group dedicated to censoring skeptics
+",t5_large,misinfo
+Chinese Premier Li Keqiang had dinner in Wuhan during the epidemic.,"The writer is implying that chinese premier li keqiang had dinner in china
+",gpt2_large,misinfo
+Chinese Premier Li Keqiang had dinner in Wuhan during the epidemic.,"The writer is implying that chinese premier li keqiang had dinner in wuhan during covid
+",t5_base,misinfo
+Chinese Premier Li Keqiang had dinner in Wuhan during the epidemic.,"The writer is implying that chinese prime minister had dinner in wuhan
+",t5_large,misinfo
+The enhanced community quarantine or ECQ in several regions and cities in the Philippines has been extended until 6/15/2020.,"The writer is implying that the pandemic is still serious
+",gpt2_large,misinfo
+The enhanced community quarantine or ECQ in several regions and cities in the Philippines has been extended until 6/15/2020.,"The writer is implying that the pandemic is getting worse
+",t5_base,misinfo
+The enhanced community quarantine or ECQ in several regions and cities in the Philippines has been extended until 6/15/2020.,"The writer is implying that the pandemic isn't ending soon
+",t5_large,misinfo
+Claim that Indian Prime minister Modi said one crore (10 million) COVID-19 positive patients have been treated for free.,"The writer is implying that india is providing free covid treatments
+",gpt2_large,misinfo
+Claim that Indian Prime minister Modi said one crore (10 million) COVID-19 positive patients have been treated for free.,"The writer is implying that india is treating covid patients for free
+",t5_base,misinfo
+Claim that Indian Prime minister Modi said one crore (10 million) COVID-19 positive patients have been treated for free.,"The writer is implying that the indian prime minister cares about covid patients
+",t5_large,misinfo
+"Wisconsin is ""clearly seeing a decline in COVID infections"".","The writer is implying that covid is not spreading in florida
+",gpt2_large,misinfo
+"Wisconsin is ""clearly seeing a decline in COVID infections"".","The writer is implying that wisconsin is seeing a decline in covid infections
+",t5_base,misinfo
+"Wisconsin is ""clearly seeing a decline in COVID infections"".","The writer is implying that covid is decreasing in wisconsin
+",t5_large,misinfo
+Chinese police crack down on suspected coronavirus patients.,"The writer is implying that chinese govts is cracking down on covid
+",gpt2_large,misinfo
+Chinese police crack down on suspected coronavirus patients.,"The writer is implying that chinese police are cracking down on covid patients
+",t5_base,misinfo
+Chinese police crack down on suspected coronavirus patients.,"The writer is implying that chinese police are cracking down on suspected covid patients
+",t5_large,misinfo
+It's just unconscionable': Acclaimed environmentalist explains his STUNNING apology for 'climate scare',"The writer is implying that people shouldn't trust the media
+",gpt2_large,misinfo
+It's just unconscionable': Acclaimed environmentalist explains his STUNNING apology for 'climate scare',"The writer is implying that climate change is a hoax
+",t5_base,misinfo
+It's just unconscionable': Acclaimed environmentalist explains his STUNNING apology for 'climate scare',"The writer is implying that climate change is not real
+",t5_large,misinfo
+"Fast Company accidentally admits that plants thrive on carbon dioxide, the greenhouse gas that liberals claim will destroy the world... but it actually makes the world more GREEN","The writer is implying that climate change is a hoax
+",gpt2_large,misinfo
+"Fast Company accidentally admits that plants thrive on carbon dioxide, the greenhouse gas that liberals claim will destroy the world... but it actually makes the world more GREEN","The writer is implying that liberals are wrong about climate change
+",t5_base,misinfo
+"Fast Company accidentally admits that plants thrive on carbon dioxide, the greenhouse gas that liberals claim will destroy the world... but it actually makes the world more GREEN","The writer is implying that climate change isn't real
+",t5_large,misinfo
+"Spanish home office has not issued a statement announcing the complete closure of Madrid, the Basque Country and La Rioja.","The writer is implying that madrid is reopening
+",gpt2_large,misinfo
+"Spanish home office has not issued a statement announcing the complete closure of Madrid, the Basque Country and La Rioja.","The writer is implying that madrid, la rioja and the basque country are not closed
+",t5_base,misinfo
+"Spanish home office has not issued a statement announcing the complete closure of Madrid, the Basque Country and La Rioja.","The writer is implying that the spanish government isn't doing enough about covid
+",t5_large,misinfo
+The Health and Environmental Dangers of 5G Technology. A Lethal Multi-Trillion Dollar Operation,"The writer is implying that technology is dangerous
+",gpt2_large,misinfo
+The Health and Environmental Dangers of 5G Technology. A Lethal Multi-Trillion Dollar Operation,"The writer is implying that 5g is dangerous
+",t5_base,misinfo
+The Health and Environmental Dangers of 5G Technology. A Lethal Multi-Trillion Dollar Operation,"The writer is implying that 5g technology is dangerous
+",t5_large,misinfo
+New maps show how climate change is making California's 'fire Weather' worse,"The writer is implying that climate change is causing wildfires in california
+",gpt2_large,misinfo
+New maps show how climate change is making California's 'fire Weather' worse,"The writer is implying that california's wildfires are being caused by climate change
+",t5_base,misinfo
+New maps show how climate change is making California's 'fire Weather' worse,"The writer is implying that climate change is causing natural disasters
+",t5_large,misinfo
+Banks will only open Tuesday and Thursday in Mexico.,"The writer is implying that banks are reopening
+",gpt2_large,misinfo
+Banks will only open Tuesday and Thursday in Mexico.,"The writer is implying that banks will only be open in mexico on certain days
+",t5_base,misinfo
+Banks will only open Tuesday and Thursday in Mexico.,"The writer is implying that banks are only open on certain days in mexico
+",t5_large,misinfo
+American environmentalism's racist roots have shaped global thinking about conservation,"The writer is implying that the country has a long history of racism
+",gpt2_large,misinfo
+American environmentalism's racist roots have shaped global thinking about conservation,"The writer is implying that american environmentalists are racist
+",t5_base,misinfo
+American environmentalism's racist roots have shaped global thinking about conservation,"The writer is implying that environmentalists are racists
+",t5_large,misinfo
+"Kazakhstanis could have had the coronavirus in the fall or winter 2019, but due to the lack of test systems at that time, the disease remained undetected.","The writer is implying that kazakhstanis were not tested for covid
+",gpt2_large,misinfo
+"Kazakhstanis could have had the coronavirus in the fall or winter 2019, but due to the lack of test systems at that time, the disease remained undetected.","The writer is implying that kazakhstan had covid in the fall or winter of 2019
+",t5_base,misinfo
+"Kazakhstanis could have had the coronavirus in the fall or winter 2019, but due to the lack of test systems at that time, the disease remained undetected.","The writer is implying that kazakhstan could have had covid in the fall of 2019
+",t5_large,misinfo
+"According to Plamen Paskov, there will be no second wave of COVID-19 since there has never been the first one.","The writer is implying that the pandemic is a hoax
+",gpt2_large,misinfo
+"According to Plamen Paskov, there will be no second wave of COVID-19 since there has never been the first one.","The writer is implying that there will be no second wave of covid
+",t5_base,misinfo
+"According to Plamen Paskov, there will be no second wave of COVID-19 since there has never been the first one.","The writer is implying that there is no second wave of covid
+",t5_large,misinfo
+German doctors get paid extra if they note Covid-19 as the cause of death on the death certificate,"The writer is implying that doctors are being paid to report covid deaths
+",gpt2_large,misinfo
+German doctors get paid extra if they note Covid-19 as the cause of death on the death certificate,"The writer is implying that german doctors are paid extra if they note covid as the cause of death
+",t5_base,misinfo
+German doctors get paid extra if they note Covid-19 as the cause of death on the death certificate,"The writer is implying that german doctors get paid extra if they list covid as cause of death
+",t5_large,misinfo
+Tycoon turns harmful greenhouse gases into DIAMONDS by using excess carbon from the atmosphere,"The writer is implying that people should not trust this person
+",gpt2_large,misinfo
+Tycoon turns harmful greenhouse gases into DIAMONDS by using excess carbon from the atmosphere,"The writer is implying that tycoons are using excess carbon from the atmosphere to turn harmful greenhouse gases into dander
+",t5_base,misinfo
+Tycoon turns harmful greenhouse gases into DIAMONDS by using excess carbon from the atmosphere,"The writer is implying that tycoon turns greenhouse gases into diamonds
+",t5_large,misinfo
+The US hospitals inflate the number of COVID-19 cases and deaths so they can receive more money.,"The writer is implying that the government is corrupt
+",gpt2_large,misinfo
+The US hospitals inflate the number of COVID-19 cases and deaths so they can receive more money.,"The writer is implying that hospitals are inflating covid numbers
+",t5_base,misinfo
+The US hospitals inflate the number of COVID-19 cases and deaths so they can receive more money.,"The writer is implying that hospitals are lying about covid numbers
+",t5_large,misinfo
+"Some reporters visited the British Prime Minister Boris Johnson after he recovered from his illness. His home looks like an old abandoned military hut with very old brick walls. The living room was too small so brought out the tea tray for the reporters. All the cups are different. He met them with disheveled hair and casual clothes, but with the confident smile of a Prime Minister","The writer is implying that british prime minister boris johnson is a liar
+",gpt2_large,misinfo
+"Some reporters visited the British Prime Minister Boris Johnson after he recovered from his illness. His home looks like an old abandoned military hut with very old brick walls. The living room was too small so brought out the tea tray for the reporters. All the cups are different. He met them with disheveled hair and casual clothes, but with the confident smile of a Prime Minister","The writer is implying that boris johnson is a hypocrite
+",t5_base,misinfo
+"Some reporters visited the British Prime Minister Boris Johnson after he recovered from his illness. His home looks like an old abandoned military hut with very old brick walls. The living room was too small so brought out the tea tray for the reporters. All the cups are different. He met them with disheveled hair and casual clothes, but with the confident smile of a Prime Minister","The writer is implying that prime minister boris johnson has an unusual home
+",t5_large,misinfo
+Jane Fonda: We need 'unprecedented numbers of people' demanding action on climate change,"The writer is implying that fonda is concerned about climate change
+",gpt2_large,misinfo
+Jane Fonda: We need 'unprecedented numbers of people' demanding action on climate change,"The writer is implying that jane fonda wants people to take action on climate change
+",t5_base,misinfo
+Jane Fonda: We need 'unprecedented numbers of people' demanding action on climate change,"The writer is implying that jane fonda thinks we need to do more about climate change
+",t5_large,misinfo
+"De Niro, Madonna Use Coronavirus to Demand Climate Change Reforms: 'Massive Extinction of Life No Longer in Doubt'","The writer is implying that celebrities are using covid to fight climate change
+",gpt2_large,misinfo
+"De Niro, Madonna Use Coronavirus to Demand Climate Change Reforms: 'Massive Extinction of Life No Longer in Doubt'","The writer is implying that the celebrity is a hypocrite
+",t5_base,misinfo
+"De Niro, Madonna Use Coronavirus to Demand Climate Change Reforms: 'Massive Extinction of Life No Longer in Doubt'","The writer is implying that de niro and madonna believe in climate change
+",t5_large,misinfo
+CDC warns people that morel mushroom increases coronavirus risk by 200%.,"The writer is implying that covid can be spread through mushrooms
+",gpt2_large,misinfo
+CDC warns people that morel mushroom increases coronavirus risk by 200%.,"The writer is implying that morel mushroom increases covid risk by 200%
+",t5_base,misinfo
+CDC warns people that morel mushroom increases coronavirus risk by 200%.,"The writer is implying that the cdc says mushrooms increase covid risk by 200%
+",t5_large,misinfo
+"One in three Tory members believe human activity not responsible for climate change, survey finds","The writer is implying that tory members don't believe climate change is happening
+",gpt2_large,misinfo
+"One in three Tory members believe human activity not responsible for climate change, survey finds","The writer is implying that tory members believe human activities are not responsible for climate change
+",t5_base,misinfo
+"One in three Tory members believe human activity not responsible for climate change, survey finds","The writer is implying that the political party is not concerned about climate change
+",t5_large,misinfo
+Missouri students will have to repeat the school year because of COVID-19 school closings.,"The writer is implying that schools are reopening
+",gpt2_large,misinfo
+Missouri students will have to repeat the school year because of COVID-19 school closings.,"The writer is implying that covid-19 is causing school closures in monaco
+",t5_base,misinfo
+Missouri students will have to repeat the school year because of COVID-19 school closings.,"The writer is implying that schools are closed due to covid
+",t5_large,misinfo
+"Hospitals in the United States get paid $750 for patients who die from the flu, $17,500 for COVID-19.","The writer is implying that the government is corrupt
+",gpt2_large,misinfo
+"Hospitals in the United States get paid $750 for patients who die from the flu, $17,500 for COVID-19.","The writer is implying that hospitals get paid for covid patients
+",t5_base,misinfo
+"Hospitals in the United States get paid $750 for patients who die from the flu, $17,500 for COVID-19.","The writer is implying that hospitals in the us get paid to treat covid patients
+",t5_large,misinfo
+"There is a positive case of the novel coronavirus (nCoV) in a hospital in Banlic, Cabuyao City, Laguna, Philippines in January 2020.","The writer is implying that covid cases are increasing rapidly
+",gpt2_large,misinfo
+"There is a positive case of the novel coronavirus (nCoV) in a hospital in Banlic, Cabuyao City, Laguna, Philippines in January 2020.","The writer is implying that covid is spreading in philippines
+",t5_base,misinfo
+"There is a positive case of the novel coronavirus (nCoV) in a hospital in Banlic, Cabuyao City, Laguna, Philippines in January 2020.","The writer is implying that covid is spreading in the philippines
+",t5_large,misinfo
+Watch: Seven Classic 'Saturday Night Live' Sketches That Would Be Banned in Today's Woke Climate,"The writer is implying that climate change is not real
+",gpt2_large,misinfo
+Watch: Seven Classic 'Saturday Night Live' Sketches That Would Be Banned in Today's Woke Climate,"The writer is implying that there are sketches that would be banned due to climate change
+",t5_base,misinfo
+Watch: Seven Classic 'Saturday Night Live' Sketches That Would Be Banned in Today's Woke Climate,"The writer is implying that people are becoming more concerned about climate change.
+",t5_large,misinfo
+Sen. Merkley: Trump's Climate Change Denial 'Willful Ignorance',"The writer is implying that the president doesn't believe in climate change
+",gpt2_large,misinfo
+Sen. Merkley: Trump's Climate Change Denial 'Willful Ignorance',"The writer is implying that trump does not believe in climate change
+",t5_base,misinfo
+Sen. Merkley: Trump's Climate Change Denial 'Willful Ignorance',"The writer is implying that trump denies climate change
+",t5_large,misinfo
+CDC has released an update on how the novel coronavirus can be transmitted,"The writer is implying that covid is spreading
+",gpt2_large,misinfo
+CDC has released an update on how the novel coronavirus can be transmitted,"The writer is implying that the cdc has information about how covid can be transmitted
+",t5_base,misinfo
+CDC has released an update on how the novel coronavirus can be transmitted,"The writer is implying that the cdc has more information on how covid can be transmitted
+",t5_large,misinfo
+Hainan's Haikou presents the plan on bettering business climate,"The writer is implying that hainan's haikou has a plan to help businesses
+",gpt2_large,misinfo
+Hainan's Haikou presents the plan on bettering business climate,"The writer is implying that business climate is improving
+",t5_base,misinfo
+Hainan's Haikou presents the plan on bettering business climate,"The writer is implying that hainan's haikou cares about climate change
+",t5_large,misinfo
+"""Dr Browman, a marine scientist for 35 years, said he was not saying that ocean acidification posed no threat, but that he believed that ""a higher level of academic scepticism"" should be applied to the topic.","The writer is implying that the author is implying
+",gpt2_large,misinfo
+"""Dr Browman, a marine scientist for 35 years, said he was not saying that ocean acidification posed no threat, but that he believed that ""a higher level of academic scepticism"" should be applied to the topic.","The writer is implying that climate change is a serious issue
+",t5_base,misinfo
+"""Dr Browman, a marine scientist for 35 years, said he was not saying that ocean acidification posed no threat, but that he believed that ""a higher level of academic scepticism"" should be applied to the topic.","The writer is implying that ocean acidification is not a threat
+",t5_large,misinfo
+"A picture allegedly showing Barack Obama, Anthony Fauci and Melinda Gates visiting a Wuhan laboratory, in 2015.","The writer is implying that the three of them are lying to us
+",gpt2_large,misinfo
+"A picture allegedly showing Barack Obama, Anthony Fauci and Melinda Gates visiting a Wuhan laboratory, in 2015.","The writer is implying that obama, fauci and gates visited a lab in wuhan in 2015
+",t5_base,misinfo
+"A picture allegedly showing Barack Obama, Anthony Fauci and Melinda Gates visiting a Wuhan laboratory, in 2015.","The writer is implying that obama, fauci and gates visited a lab in china
+",t5_large,misinfo
+"""It's actually the safest time to fly.""","The writer is implying that flying is safe
+",gpt2_large,misinfo
+"""It's actually the safest time to fly.""","The writer is implying that it's safe to fly
+",t5_base,misinfo
+"""It's actually the safest time to fly.""","The writer is implying that it's safe to fly during the pandemic
+",t5_large,misinfo
+"US President Donald Trump said during the US presidential debate on Wednesday, September 30, that he ""wears masks when needed.""","The writer is implying that masks are effective against covid-19
+",gpt2_large,misinfo
+"US President Donald Trump said during the US presidential debate on Wednesday, September 30, that he ""wears masks when needed.""","The writer is implying that trump doesn't believe in masks
+",t5_base,misinfo
+"US President Donald Trump said during the US presidential debate on Wednesday, September 30, that he ""wears masks when needed.""","The writer is implying that trump wears masks
+",t5_large,misinfo
+EU Commission president Ursula von der Leyen proposed for workers to do without their salary in solidarity with the economy.,"The writer is implying that the eu doesn't care about its' people
+",gpt2_large,misinfo
+EU Commission president Ursula von der Leyen proposed for workers to do without their salary in solidarity with the economy.,"The writer is implying that eu commission president ursula von der leyen wants to make people do without their salary
+",t5_base,misinfo
+EU Commission president Ursula von der Leyen proposed for workers to do without their salary in solidarity with the economy.,"The writer is implying that eu commission president ursula von der leyen wants workers to do without their salary
+",t5_large,misinfo
+Queen Elizabeth II is infected with the new coronavirus.,"The writer is implying that the queen has covid
+",gpt2_large,misinfo
+Queen Elizabeth II is infected with the new coronavirus.,"The writer is implying that queen elizabeth ii is infected with covid
+",t5_base,misinfo
+Queen Elizabeth II is infected with the new coronavirus.,"The writer is implying that the queen is infected with covid
+",t5_large,misinfo
+Central government has given permission for schools to re-open.,"The writer is implying that schools will reopen
+",gpt2_large,misinfo
+Central government has given permission for schools to re-open.,"The writer is implying that schools are reopening
+",t5_base,misinfo
+Central government has given permission for schools to re-open.,"The writer is implying that schools will reopen soon
+",t5_large,misinfo
+How climate change is contributing to skyrocketing rates of infectious disease,"The writer is implying that climate change is making people sick
+",gpt2_large,misinfo
+How climate change is contributing to skyrocketing rates of infectious disease,"The writer is implying that climate change is causing more infectious diseases
+",t5_base,misinfo
+How climate change is contributing to skyrocketing rates of infectious disease,"The writer is implying that climate change is causing the spread of disease
+",t5_large,misinfo
+"Says Wisconsin's in-person election has caused a ""surge"" in new coronavirus cases","The writer is implying that covid is spreading more
+",gpt2_large,misinfo
+"Says Wisconsin's in-person election has caused a ""surge"" in new coronavirus cases","The writer is implying that the election has caused a spike in covid cases
+",t5_base,misinfo
+"Says Wisconsin's in-person election has caused a ""surge"" in new coronavirus cases","The writer is implying that covid is spreading in wisconsin
+",t5_large,misinfo
+"Joe Biden has ""written a letter of apology"" for calling Trump's travel restrictions from China ""xenophobic.""","The writer is implying that the president doesn't care about the environment
+",gpt2_large,misinfo
+"Joe Biden has ""written a letter of apology"" for calling Trump's travel restrictions from China ""xenophobic.""","The writer is implying that joe biden wrote an apology for calling trump's travel restrictions from china xenophobic
+",t5_base,misinfo
+"Joe Biden has ""written a letter of apology"" for calling Trump's travel restrictions from China ""xenophobic.""","The writer is implying that biden apologized to trump for his travel restrictions
+",t5_large,misinfo
+"If Solar's Cheaper Than Coal As Claimed, Have We Beaten Climate Change?","The writer is implying that solar power is better than coal
+",gpt2_large,misinfo
+"If Solar's Cheaper Than Coal As Claimed, Have We Beaten Climate Change?","The writer is implying that solar energy is cheaper than coal
+",t5_base,misinfo
+"If Solar's Cheaper Than Coal As Claimed, Have We Beaten Climate Change?","The writer is implying that solar power is more environmentally friendly than coal
+",t5_large,misinfo
+Russian academic Valentyn Katasov argued that the Shadow Rulers planned the COVID pandemic to insert microchips into people.,"The writer is implying that the shadow rulers are evil
+",gpt2_large,misinfo
+Russian academic Valentyn Katasov argued that the Shadow Rulers planned the COVID pandemic to insert microchips into people.,"The writer is implying that russian academic valentyn katasov said the shadow rulers planned covid
+",t5_base,misinfo
+Russian academic Valentyn Katasov argued that the Shadow Rulers planned the COVID pandemic to insert microchips into people.,"The writer is implying that microchips will be implanted into people
+",t5_large,misinfo
+"Every day in Germany more people die because of wrong medical treatment, misuse of drugs or hospital germs than of Covid-19","The writer is implying that covid is not as bad as we thought
+",gpt2_large,misinfo
+"Every day in Germany more people die because of wrong medical treatment, misuse of drugs or hospital germs than of Covid-19","The writer is implying that covid isn't that bad
+",t5_base,misinfo
+"Every day in Germany more people die because of wrong medical treatment, misuse of drugs or hospital germs than of Covid-19","The writer is implying that the pandemic isn't that bad
+",t5_large,misinfo
+"CBS News used pictures from a hospital in Bergamo, Italy, in a report about New York to mislead viewers.","The writer is implying that cbs news is lying about new york
+",gpt2_large,misinfo
+"CBS News used pictures from a hospital in Bergamo, Italy, in a report about New York to mislead viewers.","The writer is implying that cbs news misleads people
+",t5_base,misinfo
+"CBS News used pictures from a hospital in Bergamo, Italy, in a report about New York to mislead viewers.","The writer is implying that cbs news is lying to people about covid
+",t5_large,misinfo
+Roche has developed a COVID-19 vaccine.,"The writer is implying that there is a cure for covid
+",gpt2_large,misinfo
+Roche has developed a COVID-19 vaccine.,"The writer is implying that a vaccine has been developed
+",t5_base,misinfo
+Roche has developed a COVID-19 vaccine.,"The writer is implying that roche has a covid vaccine
+",t5_large,misinfo
+Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.,"The writer is implying that there are new treatments
+",gpt2_large,misinfo
+Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.,"The writer is implying that vietnam developed a rapid covid test
+",t5_base,misinfo
+Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.,"The writer is implying that there is a quick test for covid
+",t5_large,misinfo
+WATCH--Jerry Nadler: Climate Change Is a Greater Threat than a World War,"The writer is implying that climate change is worse than wwii
+",gpt2_large,misinfo
+WATCH--Jerry Nadler: Climate Change Is a Greater Threat than a World War,"The writer is implying that jerry nadler thinks climate change is more dangerous than war
+",t5_base,misinfo
+WATCH--Jerry Nadler: Climate Change Is a Greater Threat than a World War,"The writer is implying that climate change is a threat
+",t5_large,misinfo
+BEST OF THE WEB: Computer modelling for Covid-19 was FATALLY flawed. And climate change models are EVEN WORSE,"The writer is implying that climate change models are wrong
+",gpt2_large,misinfo
+BEST OF THE WEB: Computer modelling for Covid-19 was FATALLY flawed. And climate change models are EVEN WORSE,"The writer is implying that climate change is not real
+",t5_base,misinfo
+BEST OF THE WEB: Computer modelling for Covid-19 was FATALLY flawed. And climate change models are EVEN WORSE,"The writer is implying that climate change models are worse than covid
+",t5_large,misinfo
+COVID-19 is a secret American weapon aimed for depopulation purposes.,"The writer is implying that the government created covid
+",gpt2_large,misinfo
+COVID-19 is a secret American weapon aimed for depopulation purposes.,"The writer is implying that the us government is using covid as a weapon
+",t5_base,misinfo
+COVID-19 is a secret American weapon aimed for depopulation purposes.,"The writer is implying that covid is a government conspiracy
+",t5_large,misinfo
+"Teen Climate Change Activist Sails from England to NYC for Summit Sans Toilet, Shower","The writer is implying that climate change activists are hypocritical
+",gpt2_large,misinfo
+"Teen Climate Change Activist Sails from England to NYC for Summit Sans Toilet, Shower","The writer is implying that teen climate change activist sails from england to nyc
+",t5_base,misinfo
+"Teen Climate Change Activist Sails from England to NYC for Summit Sans Toilet, Shower","The writer is implying that teen climate activist sails from england to new york
+",t5_large,misinfo
+Popular Indian film actor John Abraham was caught violating lockdown while roaming in his Lamborghini.,"The writer is implying that the actor is a hypocrite
+",gpt2_large,misinfo
+Popular Indian film actor John Abraham was caught violating lockdown while roaming in his Lamborghini.,"The writer is implying that john abraham violated lockdown
+",t5_base,misinfo
+Popular Indian film actor John Abraham was caught violating lockdown while roaming in his Lamborghini.,"The writer is implying that celebrities are violating quarantine laws
+",t5_large,misinfo
+"With the spread of the new coronavirus, information spread that the government had been producing masks with a Japanese flag in response to the lack of masks.","The writer is implying that masks are being produced in japan
+",gpt2_large,misinfo
+"With the spread of the new coronavirus, information spread that the government had been producing masks with a Japanese flag in response to the lack of masks.","The writer is implying that the japanese government is using masks to combat covid
+",t5_base,misinfo
+"With the spread of the new coronavirus, information spread that the government had been producing masks with a Japanese flag in response to the lack of masks.","The writer is implying that masks are being made in japan
+",t5_large,misinfo
+Inhaling hot steam can kill the coronavirus.,"The writer is implying that inhaling steam kills covid
+",gpt2_large,misinfo
+Inhaling hot steam can kill the coronavirus.,"The writer is implying that inhaling hot steam can kill covid
+",t5_base,misinfo
+Inhaling hot steam can kill the coronavirus.,"The writer is implying that inhaling hot steam kills covid
+",t5_large,misinfo
+"Euphorbia hirta, commonly known as the asthma plant, cures COVID-19.","The writer is implying that theres a cure for covid
+",gpt2_large,misinfo
+"Euphorbia hirta, commonly known as the asthma plant, cures COVID-19.","The writer is implying that euphorbia hirta cures covid
+",t5_base,misinfo
+"Euphorbia hirta, commonly known as the asthma plant, cures COVID-19.","The writer is implying that there are new remedies to treat covid
+",t5_large,misinfo
+Gov. Jay Inslee on Climate Change: 'Farmers are Getting Killed by the Donald Trump Administration',"The writer is implying that farmers are getting killed due to trump administration
+",gpt2_large,misinfo
+Gov. Jay Inslee on Climate Change: 'Farmers are Getting Killed by the Donald Trump Administration',"The writer is implying that trump's policies are hurting young people
+",t5_base,misinfo
+Gov. Jay Inslee on Climate Change: 'Farmers are Getting Killed by the Donald Trump Administration',"The writer is implying that trump doesn't care about climate change
+",t5_large,misinfo
+"Alberto Fernndez (president of Argentina) said: ""With Macri we would have had 10,000 deaths from coronavirus""","The writer is implying that the president of argentina thinks the pandemic is serious
+",gpt2_large,misinfo
+"Alberto Fernndez (president of Argentina) said: ""With Macri we would have had 10,000 deaths from coronavirus""","The writer is implying that covid-19 is a hoax
+",t5_base,misinfo
+"Alberto Fernndez (president of Argentina) said: ""With Macri we would have had 10,000 deaths from coronavirus""","The writer is implying that a president is responsible for covid deaths
+",t5_large,misinfo
+"A banner with a swastika, ""Trump"" and ""Pence"" is from a Michigan coronavirus protest.","The writer is implying that trump supporters are racist
+",gpt2_large,misinfo
+"A banner with a swastika, ""Trump"" and ""Pence"" is from a Michigan coronavirus protest.","The writer is implying that trump and pence are related
+",t5_base,misinfo
+"A banner with a swastika, ""Trump"" and ""Pence"" is from a Michigan coronavirus protest.","The writer is implying that trump and pence are not on the same page
+",t5_large,misinfo
+Whether coronavirus began with man having sex with a bat.,"The writer is implying that bats transmit covid
+",gpt2_large,misinfo
+Whether coronavirus began with man having sex with a bat.,"The writer is implying that covid was created by bats
+",t5_base,misinfo
+Whether coronavirus began with man having sex with a bat.,"The writer is implying that bats can transmit covid-19
+",t5_large,misinfo
+"A canine coronavirus vaccine shows that ""something is wrong"" in how we are talking about the novel coronavirus.","The writer is implying that covid vaccines are unsafe
+",gpt2_large,misinfo
+"A canine coronavirus vaccine shows that ""something is wrong"" in how we are talking about the novel coronavirus.","The writer is implying that covid-19 vaccines are dangerous
+",t5_base,misinfo
+"A canine coronavirus vaccine shows that ""something is wrong"" in how we are talking about the novel coronavirus.","The writer is implying that covid vaccines are dangerous
+",t5_large,misinfo
+PCR Tests cannot show the novel coronavirus.,"The writer is implying that covid testing is unreliable
+",gpt2_large,misinfo
+PCR Tests cannot show the novel coronavirus.,"The writer is implying that pcr tests cannot show covid
+",t5_base,misinfo
+PCR Tests cannot show the novel coronavirus.,"The writer is implying that covid tests are ineffective
+",t5_large,misinfo
+Worshipers were beaten by policemen because they gathered in a church.,"The writer is implying that muslims are violent
+",gpt2_large,misinfo
+Worshipers were beaten by policemen because they gathered in a church.,"The writer is implying that police are beating people in church
+",t5_base,misinfo
+Worshipers were beaten by policemen because they gathered in a church.,"The writer is implying that worshipers were beaten by policemen because they gathered in church
+",t5_large,misinfo
+"In his televised evening address on Thursday, April 16, President Rodrigo Duterte said the Philippines was the first to impose a lockdown in Asia amid the coronavirus pandemic.","The writer is implying that the phillipines is the first country to lock down
+",gpt2_large,misinfo
+"In his televised evening address on Thursday, April 16, President Rodrigo Duterte said the Philippines was the first to impose a lockdown in Asia amid the coronavirus pandemic.","The writer is implying that the philippines was the first to lock down in asia
+",t5_base,misinfo
+"In his televised evening address on Thursday, April 16, President Rodrigo Duterte said the Philippines was the first to impose a lockdown in Asia amid the coronavirus pandemic.","The writer is implying that the philippines was first to lock down due to covid
+",t5_large,misinfo
+"A claim that police in Thailand can issue fines to anyone who does not wear a face mask in public during the novel coronavirus pandemic has been shared repeatedly on Facebook, Twitter and Line Messenger.","The writer is implying that masks are important
+",gpt2_large,misinfo
+"A claim that police in Thailand can issue fines to anyone who does not wear a face mask in public during the novel coronavirus pandemic has been shared repeatedly on Facebook, Twitter and Line Messenger.","The writer is implying that masks are a threat to society
+",t5_base,misinfo
+"A claim that police in Thailand can issue fines to anyone who does not wear a face mask in public during the novel coronavirus pandemic has been shared repeatedly on Facebook, Twitter and Line Messenger.","The writer is implying that masks are important to wear
+",t5_large,misinfo
+Study proved efficacy of ivermectin on treatment of COVID-19; the medecin is given by government to treat people in Australia and Ethiopia,"The writer is implying that theres a cure for covid
+",gpt2_large,misinfo
+Study proved efficacy of ivermectin on treatment of COVID-19; the medecin is given by government to treat people in Australia and Ethiopia,"The writer is implying that ivermectin is effective at treating covid
+",t5_base,misinfo
+Study proved efficacy of ivermectin on treatment of COVID-19; the medecin is given by government to treat people in Australia and Ethiopia,"The writer is implying that ivermectin is effective in treating covid
+",t5_large,misinfo
+"""Nearly half of (Missouri) counties have not reported positive (COVID-19) cases.""","The writer is implying that covid is not spreading in Missouri
+",gpt2_large,misinfo
+"""Nearly half of (Missouri) counties have not reported positive (COVID-19) cases.""","The writer is implying that the pandemic is over
+",t5_base,misinfo
+"""Nearly half of (Missouri) counties have not reported positive (COVID-19) cases.""","The writer is implying that half of missouri counties have not reported covid cases
+",t5_large,misinfo
+"""The chloroquine stock in Paris hospitals was robbed"".","The writer is implying that the government is corrupt
+",gpt2_large,misinfo
+"""The chloroquine stock in Paris hospitals was robbed"".","The writer is implying that there is a shortage of chloroquine
+",t5_base,misinfo
+"""The chloroquine stock in Paris hospitals was robbed"".","The writer is implying that chloroquine stock in paris hospitals was robbed
+",t5_large,misinfo
+David Attenborough says saving the planet 'is within reach' on World Environment Day,"The writer is implying that we need to act now
+",gpt2_large,misinfo
+David Attenborough says saving the planet 'is within reach' on World Environment Day,"The writer is implying that david attenborough says saving the planet is within reach
+",t5_base,misinfo
+David Attenborough says saving the planet 'is within reach' on World Environment Day,"The writer is implying that david attenborough says we can save the planet
+",t5_large,misinfo
+"Doctors from all over the world have elected hydroxychloroquin ""most effective treatment against Covid-19"".","The writer is implying that hydroxychloroquine cures covid
+",gpt2_large,misinfo
+"Doctors from all over the world have elected hydroxychloroquin ""most effective treatment against Covid-19"".","The writer is implying that hydroxychloroquin is an effective treatment for covid-19
+",t5_base,misinfo
+"Doctors from all over the world have elected hydroxychloroquin ""most effective treatment against Covid-19"".","The writer is implying that hydroxychloroquin is an effective treatment for covid
+",t5_large,misinfo
+Analysis: Andrew Dessler: 'Climate Alarmist as Energy Expert' (Part I),"The writer is implying that climate alarmists are energy experts
+",gpt2_large,misinfo
+Analysis: Andrew Dessler: 'Climate Alarmist as Energy Expert' (Part I),"The writer is implying that climate change is a hoax
+",t5_base,misinfo
+Analysis: Andrew Dessler: 'Climate Alarmist as Energy Expert' (Part I),"The writer is implying that climate change is not real
+",t5_large,misinfo
+The new coronavirus poses a risk to male reproductive health.,"The writer is implying that covid-19 is dangerous for men
+",gpt2_large,misinfo
+The new coronavirus poses a risk to male reproductive health.,"The writer is implying that coronavirus is dangerous to male reproductive health
+",t5_base,misinfo
+The new coronavirus poses a risk to male reproductive health.,"The writer is implying that male reproductive health is at risk
+",t5_large,misinfo
+"Gliricidia sepium or ""matarratn"" tree has ivermectin, a drug used to prevent complications from COVID-19","The writer is implying that there are treatments for covid
+",gpt2_large,misinfo
+"Gliricidia sepium or ""matarratn"" tree has ivermectin, a drug used to prevent complications from COVID-19","The writer is implying that gliricidia sepium has ivermectin
+",t5_base,misinfo
+"Gliricidia sepium or ""matarratn"" tree has ivermectin, a drug used to prevent complications from COVID-19","The writer is implying that gliricidia sepium is an effective treatment for covid-19
+",t5_large,misinfo
+"Laura Dern, Rainn Wilson Promote Virtual Rally to Fight Climate Change","The writer is implying that rainn wilson and rainn wilson promote virtual rally to fight climate change
+",gpt2_large,misinfo
+"Laura Dern, Rainn Wilson Promote Virtual Rally to Fight Climate Change","The writer is implying that celebrities are taking climate change seriously
+",t5_base,misinfo
+"Laura Dern, Rainn Wilson Promote Virtual Rally to Fight Climate Change","The writer is implying that virtual rallies are being held to fight climate change
+",t5_large,misinfo
+Can an environmental catastrophe in Yemen be averted?,"The writer is implying that the government is not doing enough to stop climate change
+",gpt2_large,misinfo
+Can an environmental catastrophe in Yemen be averted?,"The writer is implying that yemen needs to do more to fight climate change
+",t5_base,misinfo
+Can an environmental catastrophe in Yemen be averted?,"The writer is implying that yemen may not be able to stop climate change
+",t5_large,misinfo
+Theres So Much Hypocrisy from the Left on This Meghan McCain Levels Her Co-Hosts During Climate,"The writer is implying that some politicians are hypocritical
+",gpt2_large,misinfo
+Theres So Much Hypocrisy from the Left on This Meghan McCain Levels Her Co-Hosts During Climate,"The writer is implying that the left doesn't care about climate change
+",t5_base,misinfo
+Theres So Much Hypocrisy from the Left on This Meghan McCain Levels Her Co-Hosts During Climate,"The writer is implying that democrats are hypocrites
+",t5_large,misinfo
+Speaking of the environment': Joe Biden forced to swat bug in middle of climate change speech,"The writer is implying that the president doesn't care about the environment
+",gpt2_large,misinfo
+Speaking of the environment': Joe Biden forced to swat bug in middle of climate change speech,"The writer is implying that biden was forced to swat bug during climate change speech
+",t5_base,misinfo
+Speaking of the environment': Joe Biden forced to swat bug in middle of climate change speech,"The writer is implying that biden was forced to swat bugs during climate change speech
+",t5_large,misinfo
+Muslims are violating the lockdown in India by praying in the open.,"The writer is implying that muslims are being disruptive
+",gpt2_large,misinfo
+Muslims are violating the lockdown in India by praying in the open.,"The writer is implying that muslims are violating lockdown
+",t5_base,misinfo
+Muslims are violating the lockdown in India by praying in the open.,"The writer is implying that muslims are violating lockdown rules in india
+",t5_large,misinfo
+Climate Scientists Try to Rescue Renewable Energies from 'Planet of the Humans',"The writer is implying that climate scientists are trying to save renewable energy
+",gpt2_large,misinfo
+Climate Scientists Try to Rescue Renewable Energies from 'Planet of the Humans',"The writer is implying that climate scientists are trying to rescue renewable energy from planet of humans
+",t5_base,misinfo
+Climate Scientists Try to Rescue Renewable Energies from 'Planet of the Humans',"The writer is implying that renewable energy is being rescued from the planet
+",t5_large,misinfo
+EU Parliament votes for 60% carbon dioxide emissions cut by 2030  Up from old goal of 40%  Brag EU is 'at the forefront of climate ambition',"The writer is implying that the eu is at the forefront of climate change action
+",gpt2_large,misinfo
+EU Parliament votes for 60% carbon dioxide emissions cut by 2030  Up from old goal of 40%  Brag EU is 'at the forefront of climate ambition',"The writer is implying that eu parliament votes for 60% carbon dioxide emissions cut by 2030
+",t5_base,misinfo
+EU Parliament votes for 60% carbon dioxide emissions cut by 2030  Up from old goal of 40%  Brag EU is 'at the forefront of climate ambition',"The writer is implying that the eu cares about climate change
+",t5_large,misinfo
+The WHO celebrates a Chinese cure for COVID-19 which was used in Wuhan.,"The writer is implying that the who is lying to us
+",gpt2_large,misinfo
+The WHO celebrates a Chinese cure for COVID-19 which was used in Wuhan.,"The writer is implying that there is a cure for covid
+",t5_base,misinfo
+The WHO celebrates a Chinese cure for COVID-19 which was used in Wuhan.,"The writer is implying that there is a cure for covid-19
+",t5_large,misinfo
+"The U.S. government has approved a second round of coronavirus stimulus payments to everyone who signs up  and that the money will be forthcoming in ""5-7 business days.""","The writer is implying that the us government is going to make another wave of stimulus payments
+",gpt2_large,misinfo
+"The U.S. government has approved a second round of coronavirus stimulus payments to everyone who signs up  and that the money will be forthcoming in ""5-7 business days.""","The writer is implying that the government is giving out money to people who sign up
+",t5_base,misinfo
+"The U.S. government has approved a second round of coronavirus stimulus payments to everyone who signs up  and that the money will be forthcoming in ""5-7 business days.""","The writer is implying that the government is helping people during the pandemic
+",t5_large,misinfo
+"Coronavirus can in no way withstand heat, sunlight or other UV radiation. In other words, skin and surfaces are momentarily sterilized by sunlight or other UV radiation.","The writer is implying that covid-19 is not a threat
+",gpt2_large,misinfo
+"Coronavirus can in no way withstand heat, sunlight or other UV radiation. In other words, skin and surfaces are momentarily sterilized by sunlight or other UV radiation.","The writer is implying that covid-19 can't be cured by sunlight
+",t5_base,misinfo
+"Coronavirus can in no way withstand heat, sunlight or other UV radiation. In other words, skin and surfaces are momentarily sterilized by sunlight or other UV radiation.","The writer is implying that sunlight and other uv radiation kills covid
+",t5_large,misinfo
+COVID19 dead patients are dropped from a plane in Mexico.,"The writer is implying that covid deaths are fake
+",gpt2_large,misinfo
+COVID19 dead patients are dropped from a plane in Mexico.,"The writer is implying that covid patients are dropped from planes in mexico
+",t5_base,misinfo
+COVID19 dead patients are dropped from a plane in Mexico.,"The writer is implying that covid is spreading in mexico
+",t5_large,misinfo
+A Turkish citizen in Yozgat ate yogurt and soap together to get rid of the virus.,"The writer is implying that a turkish citizen in yozgat eats yogurt and soap
+",gpt2_large,misinfo
+A Turkish citizen in Yozgat ate yogurt and soap together to get rid of the virus.,"The writer is implying that yoghurt and soap cure covid
+",t5_base,misinfo
+A Turkish citizen in Yozgat ate yogurt and soap together to get rid of the virus.,"The writer is implying that yogurt and soap can cure covid
+",t5_large,misinfo
+Susan Crockford: No climate emergency for polar bears,"The writer is implying that polar bears are being harmed by climate change
+",gpt2_large,misinfo
+Susan Crockford: No climate emergency for polar bears,"The writer is implying that sars-crockford thinks climate change isn't real
+",t5_base,misinfo
+Susan Crockford: No climate emergency for polar bears,"The writer is implying that polar bears don't need to worry about climate change
+",t5_large,misinfo
+"A picture that is shared in Social Media compared deaths by malaria, alcohol, car accidents, the flu, suicide and other causes since the beginning of 2020 with COVID-19. The message is that the number of people who die of COVID-19 is low in comparison.","The writer is implying that covid statistics are exaggerated
+",gpt2_large,misinfo
+"A picture that is shared in Social Media compared deaths by malaria, alcohol, car accidents, the flu, suicide and other causes since the beginning of 2020 with COVID-19. The message is that the number of people who die of COVID-19 is low in comparison.","The writer is implying that the number of covid deaths is low
+",t5_base,misinfo
+"A picture that is shared in Social Media compared deaths by malaria, alcohol, car accidents, the flu, suicide and other causes since the beginning of 2020 with COVID-19. The message is that the number of people who die of COVID-19 is low in comparison.","The writer is implying that covid isn't that bad
+",t5_large,misinfo
+What does the first climate question at a US debate in 20 years reveal?,"The writer is implying that society cares about climate change
+",gpt2_large,misinfo
+What does the first climate question at a US debate in 20 years reveal?,"The writer is implying that climate change is a hot topic in the us
+",t5_base,misinfo
+What does the first climate question at a US debate in 20 years reveal?,"The writer is implying that climate change is a hot topic in the debates
+",t5_large,misinfo
+Coronavirus vaccine just around the corner. Numerous Danish news reports stating that all kinds of vaccines are just about ready.,"The writer is implying that covid-19 is no longer a threat
+",gpt2_large,misinfo
+Coronavirus vaccine just around the corner. Numerous Danish news reports stating that all kinds of vaccines are just about ready.,"The writer is implying that vaccines are coming
+",t5_base,misinfo
+Coronavirus vaccine just around the corner. Numerous Danish news reports stating that all kinds of vaccines are just about ready.,"The writer is implying that vaccines will be ready soon
+",t5_large,misinfo
+"As of 4/1/20, all coronavirus patients from Blumenau, Brazil, were cured.","The writer is implying that blumenau, brazil, has a cure for covid
+",gpt2_large,misinfo
+"As of 4/1/20, all coronavirus patients from Blumenau, Brazil, were cured.","The writer is implying that there is a cure for covid
+",t5_base,misinfo
+"As of 4/1/20, all coronavirus patients from Blumenau, Brazil, were cured.","The writer is implying that covid is no longer spreading in brazil
+",t5_large,misinfo
+Matterhorn mountain in Switzerland was lit up with Indian tricolour to convey gratitude to the country for sending the life-saving Hydroxychloroquine drugs in the fight against COVID-19.,"The writer is implying that india sent hydroxychloroquine
+",gpt2_large,misinfo
+Matterhorn mountain in Switzerland was lit up with Indian tricolour to convey gratitude to the country for sending the life-saving Hydroxychloroquine drugs in the fight against COVID-19.,"The writer is implying that hydroxychloroquine is an effective treatment for covid
+",t5_base,misinfo
+Matterhorn mountain in Switzerland was lit up with Indian tricolour to convey gratitude to the country for sending the life-saving Hydroxychloroquine drugs in the fight against COVID-19.,"The writer is implying that hydroxychloroquine is effective against covid
+",t5_large,misinfo
+There is a conspiracy by the Deep State and China to sweep population control and derail President Trump via coronavirus.,"The writer is implying that the government is corrupt
+",gpt2_large,misinfo
+There is a conspiracy by the Deep State and China to sweep population control and derail President Trump via coronavirus.,"The writer is implying that china and the deep state are trying to control us
+",t5_base,misinfo
+There is a conspiracy by the Deep State and China to sweep population control and derail President Trump via coronavirus.,"The writer is implying that covid is a conspiracy
+",t5_large,misinfo
+"France, Italy and the United Kingdom followed on Jair Bolsonaro's steps and now recommend chloroquine as standard treatment for COVID-19","The writer is implying that there are false cure claims
+",gpt2_large,misinfo
+"France, Italy and the United Kingdom followed on Jair Bolsonaro's steps and now recommend chloroquine as standard treatment for COVID-19","The writer is implying that chloroquine can treat covid
+",t5_base,misinfo
+"France, Italy and the United Kingdom followed on Jair Bolsonaro's steps and now recommend chloroquine as standard treatment for COVID-19","The writer is implying that chloroquine is an effective treatment for covid-19
+",t5_large,misinfo
+McDonald's is reopening in the UK from Monday 27 April.,"The writer is implying that covid is no longer a threat
+",gpt2_large,misinfo
+McDonald's is reopening in the UK from Monday 27 April.,"The writer is implying that mcdonalds is reopening
+",t5_base,misinfo
+McDonald's is reopening in the UK from Monday 27 April.,"The writer is implying that mcdonalds will reopen in the uk
+",t5_large,misinfo
+A new outbreak pandemic of hantavirus is coming from China.,"The writer is implying that covid is spreading from china
+",gpt2_large,misinfo
+A new outbreak pandemic of hantavirus is coming from China.,"The writer is implying that hantavirus is coming from china
+",t5_base,misinfo
+A new outbreak pandemic of hantavirus is coming from China.,"The writer is implying that china is responsible for the virus
+",t5_large,misinfo
+This bottle of disinfectant gel proves that the coronavirus existed before 2019.,"The writer is implying that disinfectants are effective against covid
+",gpt2_large,misinfo
+This bottle of disinfectant gel proves that the coronavirus existed before 2019.,"The writer is implying that covid-19 was created in a lab
+",t5_base,misinfo
+This bottle of disinfectant gel proves that the coronavirus existed before 2019.,"The writer is implying that the pandemic was planned
+",t5_large,misinfo
+"US blocking mention of climate change in G20 statement, diplomats say","The writer is implying that countries are divided on how to deal with climate change
+",gpt2_large,misinfo
+"US blocking mention of climate change in G20 statement, diplomats say","The writer is implying that the us does not care about climate change
+",t5_base,misinfo
+"US blocking mention of climate change in G20 statement, diplomats say","The writer is implying that the us is blocking mention of climate change in g20 statement
+",t5_large,misinfo
